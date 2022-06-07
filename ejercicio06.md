@@ -1,0 +1,1 @@
+Los elementos en bloque, como los párrafos o los divs, introducen "saltos de línea" respecto al resto de elementos dado que ocupan toda la línea.
